@@ -5,5 +5,5 @@ This project includes the following components:
 
 **Introductory Guidance Video**
 A short instructional video is provided to help participants quickly understand the purpose of the task and become familiar with the system interface and basic operations.
-**Curated Sample Data**
+**Cleaned Data**
 A subset of cleaned and organized data is included for reference and immediate use.
